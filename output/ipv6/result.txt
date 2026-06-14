@@ -1,0 +1,13 @@
+🕘️更新时间,#genre#
+2026-06-15 01:18:34,https://xykt-fix.github.io/Y77.m3u8
+
+📺央视频道,#genre#
+CCTV-9,https://xykt-fix.github.io/Y77.m3u8
+CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
+
+📡卫视频道,#genre#
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1781459870&k=825ac4651372bd9be43369f5c46e3c47
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ea5fee1bb1c2aeadc651d6491eb56d87&wsTime=1781471269
+
+☘️广东频道,#genre#
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
